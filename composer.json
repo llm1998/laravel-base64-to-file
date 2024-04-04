@@ -1,0 +1,21 @@
+{
+    "name": "llm1998/laravel-base64-to-file",
+    "description": "Package convert string in base64 to file",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Llm1998\\LaravelBase64ToFile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Ledier Morel",
+            "email": "lucas_lmorel@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "^11.2"
+    }
+}
